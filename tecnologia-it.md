@@ -16,5 +16,7 @@ sobre que me gustaria
 
 
 
-sobre commics 
+sobre commics
+
+necesito aprender sobres certificados y derechos de autor 
 
