@@ -6,5 +6,11 @@
 
 
 
-Aquí escribes con tus palabras qué tecnología elegiste.
+vue.js
+
+## ¿Qué me gustaría construir con ella?
+paginas web
+
+
+
 
