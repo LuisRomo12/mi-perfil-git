@@ -9,8 +9,12 @@
 vue.js
 
 ## ¿Qué me gustaría construir con ella?
+
 paginas web
 
+sobre que me gustaria
 
 
+
+sobre commics 
 
